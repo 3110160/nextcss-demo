@@ -1,0 +1,6 @@
+$social: twitter,facebook,youtube; 
+@each $icon in ($social){     
+    .icon-$(icon){         
+        background: $icon  
+    }
+}

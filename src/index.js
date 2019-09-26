@@ -1,3 +1,3 @@
-import './css/index.pcss';
-document.write('postcss')
-console.log(11);
+import './css/index.css';
+
+document.getElementById('root').innerHTML('21')

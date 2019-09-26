@@ -1,5 +1,6 @@
 module.exports = {
     plugins: {
+        'postcss-import': {},
         'postcss-apply': {},
         'postcss-preset-env': {
             browsers: 'last 2 versions',
@@ -8,6 +9,9 @@ module.exports = {
                 'nesting-rules': true,
             }
         },
-        'autoprefixer':{}
+        'precss':{},
+        'autoprefixer':{},
+        // 'cssnano':{}
     }
 }
+// 搜 postcss-plugin 可查看大量postcss插件
