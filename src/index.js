@@ -1,3 +1,2 @@
-import './css/index.css';
-
-document.getElementById('root').innerHTML('21')
+// import './css/index.css';
+import './css/demo1.css';

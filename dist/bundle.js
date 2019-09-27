@@ -86,14 +86,14 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./src/css/index.css":
+/***/ "./src/css/demo1.css":
 /*!***************************!*\
-  !*** ./src/css/index.css ***!
+  !*** ./src/css/demo1.css ***!
   \***************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/css/index.css?");
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/css/demo1.css?");
 
 /***/ }),
 
@@ -105,7 +105,7 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./css/index.css */ \"./src/css/index.css\");\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_index_css__WEBPACK_IMPORTED_MODULE_0__);\n\n\ndocument.getElementById('root').innerHTML('21')\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_demo1_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./css/demo1.css */ \"./src/css/demo1.css\");\n/* harmony import */ var _css_demo1_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_demo1_css__WEBPACK_IMPORTED_MODULE_0__);\n// import './css/index.css';\n\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
